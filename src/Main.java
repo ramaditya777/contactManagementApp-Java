@@ -7,7 +7,7 @@ public class Main {
         
         while (true) {
             System.out.println("\n1. Add Contact");
-            System.out.println("2. View Contacts");
+            System.out.println("2. View Contacts"); 
             System.out.println("3. Update Contact");
             System.out.println("4. Delete Contact");
             System.out.println("5. Search Contact");
